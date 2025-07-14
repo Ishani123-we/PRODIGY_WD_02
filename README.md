@@ -1,3 +1,5 @@
+<img width="860" height="981" alt="image" src="https://github.com/user-attachments/assets/e6aae9d4-a0d9-4608-8c91-b8af8e016aed" />
+
 <h2 align="center">
   Stopwatch Web Application
 </h2>
