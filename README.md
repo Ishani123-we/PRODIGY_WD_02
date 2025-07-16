@@ -1,6 +1,6 @@
 
 <h2 align="center">
-  ![readme-bg (1)]
+  
 </h2>
 
 <div align="center">
