@@ -1,6 +1,6 @@
 
 <h2 align="center">
-  Stopwatch Web Application
+  https://github.com/mridul0703/Prodigy-Infotech/blob/main/PRODIGY_WD_02/readme-bg.jpg?raw=true
 </h2>
 
 <div align="center">
