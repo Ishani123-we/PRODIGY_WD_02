@@ -1,7 +1,6 @@
 
 <h2 align="center">
-  ![readme-bg (1)](https://github.com/user-attachments/assets/c5496255-f5ab-4e9e-a09d-0c13cf8f1be9)
-
+  ![readme-bg (1)]
 </h2>
 
 <div align="center">
