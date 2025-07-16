@@ -1,6 +1,7 @@
 
 <h2 align="center">
-  https://github.com/mridul0703/Prodigy-Infotech/blob/main/PRODIGY_WD_02/readme-bg.jpg?raw=true
+  ![readme-bg (1)](https://github.com/user-attachments/assets/c5496255-f5ab-4e9e-a09d-0c13cf8f1be9)
+
 </h2>
 
 <div align="center">
